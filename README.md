@@ -1,8 +1,11 @@
 # Curiculum
 
 Gilberto José de Souza
+
 Brasileiro, casado, 28 anos
+
 Rua João Ubaldo de Miranda, 52 – Bonsucesso – Olinda/PE
+
 Telefone: (81) 9.8765-2472 / E-mail: gilbertto.souza@gmail.com
 
 OBJETIVO
@@ -38,5 +41,7 @@ Principais atividades: Analisar, administrar e solucionar dúvidas ou problemas 
 INFORMAÇÕES ADICIONAIS
 
 •	Habilitação AB e veículo próprio.
+
 •	Experiencia internacional (6 meses nos EUA)
+
 •	Inglês básico
